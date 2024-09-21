@@ -7,4 +7,3 @@ accelerate
 pypdf
 chromadb
 unidecode
- 
