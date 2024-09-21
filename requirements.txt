@@ -1,4 +1,4 @@
-torch
+ torch
 transformers
 sentence-transformers
 langchain
